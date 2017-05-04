@@ -4,7 +4,7 @@ print 'Skypekit conference host bot'
 print '*****************************'
 
 #
-# This file must be run from ./examples/python/tutorial/ from skypekit package.
+# This file must be executed from ./examples/python/tutorial/ from skypekit package.
 # 
 #
 
